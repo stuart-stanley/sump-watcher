@@ -9,3 +9,4 @@ Required libraries:
  - adafruit st7335
 
 
+Note: if the file 'assets/poop.bmp' is put in the root of an SD card (as just poop.bmp), when the pump runs it will show the poop emoji.
